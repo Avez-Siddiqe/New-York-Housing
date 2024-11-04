@@ -1,0 +1,20 @@
+Regression Models:
+
+
+Random Forest performed best with R2 ≈ 0.94 and lowest MAE
+XGBoost came in second with R2 ≈ 0.91
+Linear Regression showed decent performance with R2 ≈ 0.70
+
+
+Classification Models:
+
+
+Random Forest Classifier achieved high accuracy (≈ 0.92) and F1 score
+Logistic Regression performed adequately but notably lower than Random Forest
+
+
+Clustering:
+
+
+The 3-cluster solution showed one dominant cluster and two smaller clusters
+This suggests there might be distinct segments in the housing market
